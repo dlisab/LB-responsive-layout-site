@@ -11,8 +11,8 @@ html {
 body {
 	font-family: 'Work Sans', sans-serif;
 	line-height: 1.6;
-	color: grey;
-	margin: 0;
+	width: 70%;
+	margin: 0 auto;
 	text-align: center;
 }
 ul {
