@@ -27,10 +27,11 @@ p {
 h1 {
 	color:crimson;
 }
+h1,
 h2,
 h3,
 a {
-	color: #093a58;
+	color: crimson;
 }
 h2,
 h3 {
