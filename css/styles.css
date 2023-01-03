@@ -24,11 +24,13 @@ p {
 	font-size: .95em;
 	margin-bottom: 1.8em;
 }
-
+h1 {
+	color:crimson;
+}
 h2,
 h3,
 a {
-	color: #582109;
+	color: #093a58;
 }
 h2,
 h3 {
