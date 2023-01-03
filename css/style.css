@@ -57,6 +57,7 @@ img {
 }
 .main-nav {
 	margin-top: 5px;
+	background-color: lightgray;
 }
 .name a,
 .main-nav a {
