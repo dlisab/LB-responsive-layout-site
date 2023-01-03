@@ -25,13 +25,13 @@ p {
 	margin-bottom: 1.8em;
 }
 h1 {
-	color:crimson;
+	color:#3a3a3a;
 }
 h1,
 h2,
 h3,
 a {
-	color: crimson;
+	color: rgb(41, 73, 129);
 }
 h2,
 h3 {
