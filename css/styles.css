@@ -5,6 +5,9 @@
 * {
 	box-sizing: border-box;
 }
+html {
+	font-size: 1.25em
+}
 body {
 	font-family: Verdana, Geneva, sans-serif;
 	line-height: 1.6;
