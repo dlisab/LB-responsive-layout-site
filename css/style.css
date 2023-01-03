@@ -64,6 +64,8 @@ img {
 	text-align: center;
 	display: block;
 	padding: 10px 15px;
+	color: white;
+	font-weight: 600;
 }
 .main-nav a {
 	font-size: .95em;
