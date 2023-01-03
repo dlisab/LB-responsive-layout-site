@@ -9,7 +9,7 @@ html {
 	font-size: 1.25em
 }
 body {
-	font-family: Verdana, Geneva, sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	line-height: 1.6;
 	color: #3a3a3a;
 	margin: 0;
@@ -28,7 +28,7 @@ p {
 h2,
 h3,
 a {
-	color: #093a58;
+	color: #582109;
 }
 h2,
 h3 {
