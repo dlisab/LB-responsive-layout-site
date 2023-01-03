@@ -11,9 +11,7 @@ html {
 body {
 	font-family: 'Work Sans', sans-serif;
 	line-height: 1.6;
-	width: 70%;
-	margin: 0 auto;
-	text-align: center;
+	color: #58595b;
 }
 ul {
   margin: 0;
@@ -26,7 +24,7 @@ p {
 	margin-bottom: 1.8em;
 }
 h1 {
-	color:grey;
+	color:#58595b;
 }
 h1,
 h2,
@@ -53,18 +51,15 @@ img {
 
 .name {
 	font-size: 1.35em;
-	margin: 0;
 	font-weight: 600;
 }
 .main-nav {
 	margin-top: 5px;
-	background-color: lightgray;
+	background-color: #f1f2f2;
 }
 .main-nav a {
-	text-align: center;
 	display: block;
-	padding: 10px 15px;
-	color: grey;
+	color: #58595b;
 	font-weight: 600;
 }
 .main-nav a {
@@ -72,14 +67,18 @@ img {
 	color:darkslategrey;
 	text-transform: uppercase;
 	background-color: white;
-	margin: .25em .5em;
+	margin: .25em .25em;
 }
 .main-nav a:hover {
 	color: #093a58;
 }
 
 /* ---- Layout Containers ---- */
-
+.wrapper {
+	width: 70%;
+	margin: 0 auto;
+	text-align: center;
+}
 .main-header {
 	padding-top: .5em;
 	padding-bottom: .5em;
