@@ -19,9 +19,13 @@ ul {
   padding: 0;
   list-style: none;
 }
+
 p {
 	font-size: .95em;
 	margin-bottom: 1.8em;
+}
+h1{
+	color:aqua; 
 }
 h2,
 h3,
