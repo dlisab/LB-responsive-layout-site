@@ -108,8 +108,9 @@ img {
 	padding-left: 1em;
 	padding-right: 1em;
 }
+
 .footer {
-	margin-bottom: 1em;
+	padding-bottom: 1em;
 }
 .contact-container {
 	background: #f1f2f2;
