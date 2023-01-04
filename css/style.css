@@ -116,6 +116,14 @@ img {
     margin: 0 auto;
 
 }
+.footer ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+
+}
 .footer-nav li {
 	font-size: .5em;
 }
