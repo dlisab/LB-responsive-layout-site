@@ -85,11 +85,11 @@ img {
 
 /* ---- Layout Containers ---- */
 .main {
-	width: 80%;
+	width: 70%;
 	margin: 0 auto;
 }
 .wrapper {
-	width: 80%;
+	width: 70%;
 	margin: 0 auto;
 	text-align: center;
 }
@@ -116,7 +116,7 @@ img {
     margin: 0 auto;
 
 }
-.footer-nav {   
+.footer-nav ul {   
 	display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -126,10 +126,12 @@ img {
 }
  
 .footer-nav li {
-	font-size: .5em;
-	
+	font-size: .5em;	
 }
-
+.hr {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
 /* ---- Page Elements ---- */
 
 
