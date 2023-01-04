@@ -35,7 +35,13 @@ h3,
 a {
 	color: rgb(41, 73, 129);
 }
-h2,
+h2 {
+	font-size: .75em;
+	margin-top: 1em;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
 h3 {
 	font-size: .75em;
 	margin-top: 1em;
@@ -130,7 +136,7 @@ img {
 }
  
 .footer-nav li {
-	font-size: .5em;	
+	font-size: .65em;	
 }
 .hr {
 	padding-top: 1em;
