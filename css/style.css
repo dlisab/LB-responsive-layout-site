@@ -36,7 +36,9 @@ a {
 }
 h2,
 h3 {
-	margin-top: 0;
+	font-size: .75em;
+	margin-top: 1em;
+	font-weight: 300;
 }
 a {
 	text-decoration: none;
@@ -90,37 +92,23 @@ img {
 	padding-top: .5em;
 	padding-bottom: .5em;
 }
-.banner,
-.main-footer {
-	text-align: center;
-}
-.banner {
-	color: #fff;
-	background: #3acec2;
-	padding: 3.2em 0;
-	margin-bottom: 48px;
-}
-.col {
-	padding-right: 1em;
-	padding-left: 1em;
-}
-.main-footer {
-	background: #d9e4ea;
-	padding: 2em 0;
-	margin-top: 30px;
+.portfolio {
+	background-color: white;
+	width: 100%;
+	padding: .5em .5em; 
 }
 
+.footer {
+	background: #f1f2f2;
+	margin-top: 2em;
+}
+.footer-nav {
+	flex-wrap: wrap;
+	flex-direction: column;
+} 
 /* ---- Page Elements ---- */
 
-.logo {
-	width: 190px;
-}
-.headline {
-	margin-bottom: 0;
-}
-.feat-img {
-	border-radius: 5px;
-}
+
 
 /* ================================= 
   Media Queries
