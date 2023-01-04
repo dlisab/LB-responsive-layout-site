@@ -102,9 +102,13 @@ img {
 	background: #f1f2f2;
 	margin-top: 2em;
 }
-.footer-nav {
-	flex-wrap: wrap;
+.footer-nav li{
+	font-size: .5em;
+}
+.footer-nav ul{
+	display: flex;
 	flex-direction: column;
+	justify-content: space-between;
 } 
 /* ---- Page Elements ---- */
 
