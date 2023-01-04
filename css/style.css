@@ -13,8 +13,7 @@ body {
 	line-height: 1.6;
 	color: #58595b;
 	background-color: #f1f2f2;
-	overflow-y: scroll;
-	overflow-x: hidden;
+
 }
 ul {
   margin: 0;
