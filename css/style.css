@@ -160,4 +160,43 @@ img {
 	.tagline {
 		font-size: 1.4em;
 	}
+	.main-nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+	justify-content: space-around;
+	background-color: rgba(0,0,0,0);
+	}
+.body{
+	background-color: #ffffff;
+}
+.main {
+	width: 70%;
+	margin: 0 auto;
+	background-color: white;
+}
+.wrapper {
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+	}
+.main-nav a{
+	margin-top: 5px;
+	background-color: rgba(0,0,0,0);
+}
+
+.banner{
+	display: flex;
+	flex-wrap: nowrap;
+	flex-direction: row-reverse;
+	justify-content: space-between;
+}
+.banner img {
+	width: 40%;
+	margin-left: .5em;
+}
+.banner p {
+	text-align: left;
+	font-size: 1em;
+}
 }
