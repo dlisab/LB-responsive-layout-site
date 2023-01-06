@@ -152,8 +152,6 @@ img {
 
 @media (min-width: 769px) {
 	
-	
-	
 	.main-nav {
     display: flex;
     flex-direction: row;
@@ -202,7 +200,23 @@ img {
 	justify-content: space-between;
 	
 }
-.row {
+.item {
 	width: 50%;
 }
+h3 {
+	font-size: 1em;
+	font-weight: 500;
 }
+.item p {
+	font-size: .75em;
+	padding: 0 2em;
+}
+.contact-container{
+	margin-top: 3em;
+	width: 75%
+}
+.contact-container p{
+	font-size: 1em;
+}
+}
+
