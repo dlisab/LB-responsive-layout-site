@@ -156,7 +156,7 @@ img {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-	justify-content: space-around;
+	justify-content: space-evenly;
 	background-color: rgba(0,0,0,0);
 	}
 .body{
@@ -171,7 +171,6 @@ img {
 	width: 90%;
 	margin: 0 auto;
 	text-align: center;
-	margin-bottom: 3em;
 	}
 .main-nav a{
 	margin-top: 5px;
@@ -186,11 +185,12 @@ img {
 }
 .banner img {
 	width: 40%;
-	margin-left: .5em;
+	margin-left: .75em;
 }
 .banner p {
 	text-align: left;
 	font-size: 1em;
+	padding-left: 1.5em;
 }
 
 .container {
@@ -224,7 +224,7 @@ h3 {
 
 {
 .wrappper {
-	margin-bottom: 0em;
+	margin-bottom: 0;
 }
 .main-header,
 .main-nav
@@ -239,10 +239,20 @@ h3 {
 	h1 {
 	text-align: left;
 	}
+.banner {
+	padding-bottom: 3em;
+}
 .banner p {
 	padding-left: 3em;
 	padding-right: 3em;
-	line-height: 24px;
+	line-height: 28px;
+}
+.portfolio
+{
+	padding-top: 1.5em;
+}
+.item {
+    width: 33%;
 }
 }
 
