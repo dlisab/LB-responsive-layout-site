@@ -220,3 +220,29 @@ h3 {
 }
 }
 
+@media (min-width: 1024px)
+
+{
+.wrappper {
+	margin-bottom: 0em;
+}
+.main-header,
+.main-nav
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.main-nav li {
+	padding: 1em;
+} 
+	h1 {
+	text-align: left;
+	}
+.banner p {
+	padding-left: 3em;
+	padding-right: 3em;
+	line-height: 24px;
+}
+}
+
