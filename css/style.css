@@ -23,8 +23,10 @@ ul {
 }
 
 p {
-	font-size: .65em;
+	font-size: .75em;
 	margin-bottom: 1.8em;
+	padding: 0 .5em;
+	text-align: center;
 }
 h1 {
 	color:#58595b;
@@ -96,7 +98,7 @@ img {
 	margin: 0 auto;
 }
 .wrapper {
-	width: 70%;
+	width: 90%;
 	margin: 0 auto;
 	text-align: center;
 }
