@@ -151,15 +151,9 @@ img {
 ==================================== */
 
 @media (min-width: 769px) {
-	.main-header,
-	.row {
-		width: 80%;
-		margin: 0 auto;
-		max-width: 1150px;
-	}
-	.tagline {
-		font-size: 1.4em;
-	}
+	
+	
+	
 	.main-nav {
     display: flex;
     flex-direction: row;
@@ -199,5 +193,16 @@ img {
 .banner p {
 	text-align: left;
 	font-size: 1em;
+}
+
+.container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	
+}
+.row {
+	width: 50%;
 }
 }
