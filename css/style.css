@@ -191,7 +191,7 @@ footer {
 .banner img {
 	width: 40%;
 	margin-left: .75em;
-	padding: 0 3.5em;
+	padding-bottom: 2em;
 }
 .banner p {
 	text-align: left;
@@ -252,7 +252,7 @@ h3 {
 	text-align: left;
 	}
 .banner {
-	padding-bottom: 3em;
+	padding-bottom: 1em;
 }
 .banner p {
 	padding-left: 3em;
@@ -266,7 +266,7 @@ h3 {
 .item {
     width: 33%;
 }
-footer-mobile {
+.footer-mobile {
 	display: none;
 }
 }
