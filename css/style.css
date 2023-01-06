@@ -3,6 +3,8 @@
 ==================================== */
 
 * {
+	margin: 0;
+	padding: 0;
 	box-sizing: border-box;
 }
 html {
@@ -61,7 +63,13 @@ img {
 ==================================== */
 
 /* ---- Navigation ---- */
-
+.top {
+	display: none;
+}
+.full {
+	display: inline-block;
+margin-left: 20px;
+}
 .name {
 	font-size: 1.35em;
 	font-weight: 600;
@@ -128,13 +136,14 @@ img {
     margin: 0 auto;
 
 }
-.footer-nav ul {   
+.footer {   
 	display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: flex-start;
-    flex-wrap: nowrap;
-
+	justify-content: space-between;
+	flex-direction: row;
+    align-items: center;
+    padding: 0 20px;
+	height: 100px;
+	background-color: #107896;
 }
  
 .footer-nav li {
@@ -144,7 +153,7 @@ img {
 	padding-top: 1em;
 	padding-bottom: 1em;
 }
-footer {
+.full {
 	display: none;
 }
 /* ---- Page Elements ---- */
@@ -225,7 +234,7 @@ h3 {
 	font-size: 1em;
 }
 
-.footer-mobile {
+.full {
 	display: none;
 }
 }
@@ -265,8 +274,5 @@ h3 {
 }
 .item {
     width: 33%;
-}
-.footer-mobile {
-	display: none;
 }
 }
