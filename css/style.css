@@ -144,7 +144,9 @@ img {
 	padding-top: 1em;
 	padding-bottom: 1em;
 }
-
+footer {
+	display: none;
+}
 /* ---- Page Elements ---- */
 
 
@@ -222,11 +224,11 @@ h3 {
 .contact-container p{
 	font-size: 1em;
 }
-}
-footer-mobile (
-	display: none;
 
-)
+.footer-mobile {
+	display: none;
+}
+}
 /* ================================= 
   Media Queries desktop
 ==================================== */
@@ -264,8 +266,7 @@ footer-mobile (
 .item {
     width: 33%;
 }
-footer-mobile (
+footer-mobile {
 	display: none;
-)
 }
-
+}
