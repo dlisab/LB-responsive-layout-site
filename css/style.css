@@ -45,6 +45,9 @@ h2 {
 	font-weight: 600;
 	text-transform: uppercase;
 }
+.footer h2 {
+	text-transform: none;
+}
 
 h3 {
 	font-size: .75em;
