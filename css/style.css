@@ -144,12 +144,13 @@ img {
 	padding-top: 1em;
 	padding-bottom: 1em;
 }
+
 /* ---- Page Elements ---- */
 
 
 
 /* ================================= 
-  Media Queries
+  Media Queries tablet
 ==================================== */
 
 @media (min-width: 769px) {
@@ -222,7 +223,13 @@ h3 {
 	font-size: 1em;
 }
 }
+footer-mobile (
+	display: none;
 
+)
+/* ================================= 
+  Media Queries desktop
+==================================== */
 @media (min-width: 1024px)
 
 {
@@ -257,5 +264,8 @@ h3 {
 .item {
     width: 33%;
 }
+footer-mobile (
+	display: none;
+)
 }
 
