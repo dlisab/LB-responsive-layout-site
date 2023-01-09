@@ -129,7 +129,9 @@ img {
 	padding-left: 1em;
 	padding-right: 1em;
 }
-
+.top {
+	display:contents;
+  }
 .footer {
 	padding-bottom: 1.5em;
 }
@@ -149,7 +151,12 @@ img {
 	height: 100px;
 	background-color: #107896;
 }
- 
+.footer-container {
+	display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+}
 .footer-nav li {
 	font-size: .65em;	
 }
