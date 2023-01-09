@@ -52,14 +52,15 @@ h2 {
 h3 {
 	font-size: .75em;
 	margin-top: 1em;
-	font-weight: 300;
+	font-weight: 600;
 }
 a {
 	text-decoration: none;
 	color:rgb(41, 73, 129)
 }
 img {
-	max-width: 100%;
+	max-width: 70%;
+    margin: 1em 2em;
 }
 
 /* ================================= 
@@ -140,7 +141,10 @@ img {
 	width: 70%;
     text-align: center;
     margin: 0 auto;
-
+	padding-top: 1.75em;
+}
+.contact h2 {
+	padding-bottom: 1.75em;
 }
 .footer {   
 	display: flex;
@@ -159,6 +163,11 @@ img {
 }
 .footer-nav li {
 	font-size: .65em;	
+	text-transform: uppercase;
+	font-weight: 600;
+}
+.student-name h2 {
+	text-transform:none;
 }
 .hr {
 	padding-top: 1em;
