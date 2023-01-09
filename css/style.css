@@ -253,9 +253,7 @@ contact h2 {
 .footer-nav li {
 	text-transform: uppercase;
 }
-	.top {
-	  display: none;
-	}
+	
 	.full {
 	  display: inline-block;
 	  margin-left: 20px;
@@ -325,4 +323,6 @@ contact h2 {
 	  display: inline-block;
 	  margin-left: 20px;
 	}
+
 }
+
