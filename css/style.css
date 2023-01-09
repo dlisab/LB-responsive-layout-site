@@ -236,11 +236,29 @@ h3 {
 .contact-container p{
 	font-size: 1em;
 }
+contact h2 {
+	text-align: left;
+}
+.footer-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: auto;
+	padding: 20px 20px;
+  }
+.footer-nav li {
+	text-transform: upppercase;
+}
+	.top {
+	  display: none;
+	}
+	.full {
+	  display: inline-block;
+	  margin-left: 20px;
+	}
+  }
 
-.full {
-	display: none;
-}
-}
 /* ================================= 
   Media Queries desktop
 ==================================== */
@@ -277,5 +295,22 @@ h3 {
 }
 .item {
     width: 33%;
+}footer-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: auto;
+	padding: 20px 20px;
+  }
+.footer-nav li {
+	text-transform: upppercase;
 }
+	.top {
+	  display: none;
+	}
+	.full {
+	  display: inline-block;
+	  margin-left: 20px;
+	}
 }
