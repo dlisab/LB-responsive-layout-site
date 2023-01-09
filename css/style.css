@@ -296,6 +296,10 @@ contact h2 {
 .item {
     width: 33%;
 }
+.contact-container p{
+	padding: 0 7em .5em 7em;
+}
+
 .footer-container {
 	display: flex;
 	flex-direction: row;
