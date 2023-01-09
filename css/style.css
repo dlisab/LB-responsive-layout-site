@@ -248,7 +248,7 @@ contact h2 {
 	padding: 20px 20px;
   }
 .footer-nav li {
-	text-transform: upppercase;
+	text-transform: uppercase;
 }
 	.top {
 	  display: none;
@@ -295,7 +295,8 @@ contact h2 {
 }
 .item {
     width: 33%;
-}footer-container {
+}
+.footer-container {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
@@ -304,7 +305,7 @@ contact h2 {
 	padding: 20px 20px;
   }
 .footer-nav li {
-	text-transform: upppercase;
+	text-transform: uppercase;
 }
 	.top {
 	  display: none;
