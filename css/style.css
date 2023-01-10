@@ -169,7 +169,8 @@ img {
 }
 .skills-container p {
 	font-size: 1em;
-	padding: 1em 1em;
+	padding: 1em 0 .5em 0;
+	margin-bottom: .5em;
 }
 .skills h3 {
 	font-size: .75em;
