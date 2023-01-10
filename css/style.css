@@ -287,9 +287,14 @@ h3 {
 	margin-top: 1em;
 	width: 75%
 }
-.contact-container p,
+.contact-container p{
+	font-size: 1em;
+	
+}
+}
 .skills-container p{
 	font-size: 1em;
+	padding: 1em 12em;
 }
 contact h2 {
 	text-align: left;
