@@ -98,7 +98,7 @@ img {
 }
 .main-nav {
 	margin-top: 5px;
-	background-color: #f1f2f2;
+	background-color: #;
 }
 .body-nav a {
 	font-size: .75em;
@@ -112,9 +112,9 @@ img {
 	font-size: .75em;
 	display: block;
 	font-weight: bold;
-	color:darkslategrey;
+	color:white;
 	text-transform: uppercase;
-	background-color: white;
+	background-color: #9acc79;
 	margin: .25em 0;
 	padding: .75em 0 .75em 0;
 }
