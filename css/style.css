@@ -17,7 +17,9 @@ body {
 	color: #414042;
 	background-color: #f1fcd9;
 	padding-bottom: 1.5em;
-
+}
+client ul {
+	margin: 0 0 .5em 0;
 }
 ul {	
   margin: 0;
