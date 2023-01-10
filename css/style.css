@@ -57,7 +57,7 @@ h2 {
 h4 {
 	font-size: .75em;
 	padding-top: 5px;
-	font-weight: 400;
+	font-weight: 500;
 }
 .footer h2 {
 	text-transform: none;
@@ -167,12 +167,16 @@ img {
     margin: 0 auto;
 	padding: 1.75em 1.75em;
 }
+.skills-container p{
+	margin-bottom: 0;
+}
 .skills h3 {
 	font-size: .75em;
 	font-weight: 600;
 	text-transform: uppercase;
 	font-family: 'Work Sans', sans-serif;
 }
+
 .contact h2 {
 	padding-bottom: 1.75em;
 }
@@ -351,13 +355,11 @@ h1 {
 }
 .portfolio h2
 {
-	padding-top: 1.5em;
 	font-size: 1.25em;
+	margin-top: 3em;
 }
-.portfolio
-{
-	padding-top: 1.5em;
-}
+
+
 .item {
     width: 33%;
 }
