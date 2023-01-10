@@ -167,6 +167,10 @@ img {
     margin: 0 auto;
 	padding: 1.75em 1.75em;
 }
+.skills-container p {
+	font-size: 1em;
+	padding: 1em 1em;
+}
 .skills h3 {
 	font-size: .75em;
 	font-weight: 600;
@@ -291,9 +295,9 @@ h3 {
 .contact-container p{
 	font-size: 1em;
 	
+
 }
-}
-.skills-container p{
+.skills-container p {
 	font-size: 1em;
 	padding: 1em 4em;
 }
@@ -318,7 +322,7 @@ contact h2 {
 	  display: inline-block;
 	  margin-left: 20px;
 	}
-  }
+  
 
 /* ================================= 
   Media Queries desktop
