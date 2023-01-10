@@ -18,6 +18,7 @@ body {
 	background-color: #f1fcd9;
 	padding-bottom: 1.5em;
 }
+
 ul {	
   margin: 0 0 .5em 0;;
   padding: 0;
@@ -98,7 +99,7 @@ img {
 }
 .main-nav {
 	margin-top: 5px;
-	background-color: #;
+	background-color: #f1f2f2;
 }
 .body-nav a {
 	font-size: .75em;
@@ -112,9 +113,9 @@ img {
 	font-size: .75em;
 	display: block;
 	font-weight: bold;
-	color:white;
+	color:darkslategrey;
 	text-transform: uppercase;
-	background-color: #9acc79;
+	background-color: white;
 	margin: .25em 0;
 	padding: .75em 0 .75em 0;
 }
